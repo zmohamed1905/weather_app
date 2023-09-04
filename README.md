@@ -3,11 +3,11 @@
 This Web Application uses Python and Flask to make an API call from OpenWeatherMap, recieve data on the current temperature conditions in a given City, the data is then displayed using Bootsrap and CSS to make for a simple yet effective application.
 
 
-![Alt text](image.png)
+![](.README_images/image.png)
 
 
 ## Input the City, and Country (state if applicable) then hit the 'Find' button.
-![Alt text](image-2.png)
+![](.README_images/image-2.png)
 
 
 
